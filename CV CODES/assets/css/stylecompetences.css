@@ -1,0 +1,206 @@
+body { 
+
+}
+#home {
+    width:100%;
+    height:80px;
+    font-size: 35px ;
+    color: white;
+    text-align: center;
+    border: black;
+    margin-bottom: 5px;
+    -webkit-text-stroke: 2px black;
+}
+#home span {
+    padding:10px;
+    font-family: fantasy;
+    letter-spacing: 3px;
+}
+#computer img {
+    float: left;
+    width:20%;
+    height:161px;
+    border: 2px solid black;
+}
+#menu { 
+    background-color:#116d76;
+    width:100%;
+    height:60px;
+    padding:10px;
+    margin-left: 2px;
+
+}
+#menu ul {
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+    font-family: fantasy;
+   margin-left: 40px;
+
+}
+#menu li {
+    margin-left: 40px;
+    float: left;
+    margin: 0px;
+    width: 155px;
+    padding: 10px;
+
+}
+#menu ul li a {
+    display: block;
+    float: left;
+    width:100%;
+    color: #0a1448;
+    text-decoration:none;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+    margin-left: 0px;
+    font-style: cursive;
+    background: -webkit-linear-gradient(deepskyblue, dodgerblue);
+    border-radius: 3px;
+}
+#menu ul li a:hover {
+    background-color:#D3D3D3;
+    border-color:#696969 #DCDCDC #DCDCDC #696969;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+    }
+
+#accueil  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#formations  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#experiences  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#competences  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#projets  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#contact  {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+}
+#cadreinfo {
+    width: 20%;
+    height:730px;
+    border: 2px solid black;
+    background-color: #116d76 ;
+    text-align: center;
+    float: left;
+    margin-top:0; 
+}
+#info {
+    font-family: fantasy;
+    color: black;
+    margin-top: 16px;
+}
+#cadreinfo img {
+    width: 120px;
+    height: 120px;
+    margin-left: 0;
+    margin-top: 20px;
+    border:4px solid dodgerblue;
+    border-radius:10px;
+}
+
+#statut {
+    margin-top: 50px;
+    text-shadow: blanchedalmond;
+}
+#statut img {
+    width: 30px;
+    height: 30px;
+}
+#titre {
+    width:25%;
+    height:60px;
+    border:2px solid #0a1448;
+    margin-top:15px;
+    margin-left: 650px;
+    margin-bottom: 10px;
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    -webkit-text-stroke: 2px #36f5e3;   
+}
+#professionnal {
+    width:50%;
+    height:450px;
+    border:4px solid #116d76;
+    margin-top:15px;
+    margin-left: 470px;
+    margin-bottom: 10px;
+    font-family: fantasy;
+    border-radius:10px;
+}
+
+#professionnal h1 {
+    font-size: 15px;
+    text-align:center;
+    margin:0px;
+    text-decoration:underline overline #FA0404;
+    margin-bottom: 10px;
+}
+#professionnal ul {
+    font-family: fantasy;
+    margin:3px;
+    color:#0a1448;
+}
+#professionnal li {
+    margin-bottom: 3px;
+}
+p {
+    text-align: center;
+    color:red;
+    text-decoration: underline #0a1448 ;
+}
+#professionnal  li:nth-child(even) {
+    color:#0434FA;
+}
+#quality {
+    width:30%;
+    height:150px;
+    border:4px solid #116d76;
+    margin-top:15px;
+    margin-left: 590px;
+    margin-bottom: 10px;
+    font-family: fantasy;
+    border-radius:10px;
+   
+}
+#quality h2 {
+    font-size: 15px;
+    text-align:center;
+    margin:0px;
+    text-decoration:underline overline #FA0404;
+}
+#quality ul {
+    text-align: center;
+    font-family: fantasy;
+    margin:3px;
+    color:#0a1448;
+}
+#quality li {
+    margin-bottom: 3px;
+    text-align: center;
+}
+#quality  li:nth-child(even) {
+    color:#0434FA;
+}
